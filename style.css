@@ -3,3 +3,33 @@
     background-color: lightblue;
 }
 
+.link {
+    color: blue;
+    
+}
+
+.list {
+    line-height: 50px;
+}
+
+.font {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.header {
+    text-align: center;
+
+}
+
+.img {
+    text-align: center;
+}
+
+ol li {
+    margin-bottom: 12px;
+}
+
+ul li {
+    margin-bottom: 12px;
+}
